@@ -38,7 +38,7 @@ Samples.FormalLanguages.Parsers
 
 *   https://tomassetti.me/parsing-in-csharp/
 
-
+*   https://dzone.com/articles/parsing-in-c-all-the-tools-and-libraries-you-can-u-2
 
 
 
@@ -191,7 +191,9 @@ Samples.FormalLanguages.Parsers
 
     *   https://www.reddit.com/r/csharp/comments/due5cr/monadic_parser_combinators_in_c/
 
+Parsing in C# from first principles - Nicholas Blumhardt
 
+https://www.youtube.com/watch?v=t4dYy6P3JuA&ab_channel=NDCConferences
 
 ## Superpower
 
@@ -231,4 +233,5 @@ https://dev.to/antoinega/parse-an-expression-with-superpower-1gdl
 
     XML
     JSON
-
+*   Prolog
+*   https://www.benjamin.pizza/posts/2019-12-08-parsing-prolog-with-pidgin.html
